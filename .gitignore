@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+*.class
+
+### Replit ###
+.replit
+replit.nix
+.upm
